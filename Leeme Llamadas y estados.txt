@@ -1,0 +1,125 @@
+
+este codigo peguelo en ese espacio pero estruturelo bien 
+
+aca van llamadas estados
+
+
+
+
+
+
+ <div class="bloque unseen">
+                <div class="imagen_perfil">
+                  <img src="img/img3.jpg" alt="img">
+                </div>
+                <div class="detalles">
+                  <div class="lista_cabeza">
+                    <h4>Intructora Alejandra</h4>
+                  </div>
+                  <div class="mensaje_parrafo">
+                    <p>Just Now</p>
+                  </div>
+                </div>
+              </div>
+              
+              <div class="bloque unseen">
+                <div class="imagen_perfil">
+                  <img src="img/img4.jpg" alt="img">
+                </div>
+                <div class="detalles">
+                  <div class="lista_cabeza">
+                    <h4>Psicologa SENA</h4>
+                  </div>
+                  <div class="mensaje_parrafo">
+                    <p>45 Minutes ago</p>
+                  </div>
+                </div>
+              </div>
+
+              <label>Viewed Updates</label>
+
+              <div class="bloque seen">
+                <div class="imagen_perfil">
+                  <img src="img/img5.jpg" alt="img">
+                </div>
+                <div class="detalles">
+                  <div class="lista_cabeza">
+                    <h4>Empresa diseño</h4>
+                  </div>
+                  <div class="mensaje_parrafo">
+                    <p>Yesterday, 17:25</p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="bloque seen">
+                <div class="imagen_perfil">
+                  <img src="img/img7.jpg" alt="img">
+                </div>
+                <div class="detalles">
+                  <div class="lista_cabeza">
+                    <h4>Instructora Virtual ADSO</h4>
+                  </div>
+                  <div class="mensaje_parrafo">
+                    <p>Yesterday, 21:25</p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+        <div class="box calls">
+          <div class="data">
+
+            <div class="chatlist">
+              <div class="bloque">
+                <div class="imagen_perfil green">
+                  <ion-icon name="link-outline"></ion-icon>
+                </div>
+                <div class="detalles">
+                  <div class="lista_cabeza">
+                    <h4>Create call link</h4>
+                    <p class="tiempo_hora">10:56</p>
+                  </div>
+                  <div class="mensaje_parrafo">
+                    <p>Share a link for your WhatsApp call</p>
+                  </div>
+                </div>
+              </div>
+              <label>Recent</label>
+              <div class="bloque">
+                <div class="imagen_perfil">
+                  <img src="img/img4.jpg" alt="img">
+                </div>
+                <div class="detalles">
+                  <div class="lista_cabeza">
+                    <h4>Psicologa SENA</h4>
+                  </div>
+                  <div class="mensaje_parrafo incoming">
+                    <p>
+                      <ion-icon name="arrow-down"></ion-icon>
+                      08/15/2024, 8:00
+                    </p>
+                  </div>
+                </div>
+                <ion-icon name="call" class="call"></ion-icon>
+              </div>
+              <div class="bloque">
+                <div class="imagen_perfil">
+                  <img src="img/img3.jpg" alt="img">
+                </div>
+                <div class="detalles">
+                  <div class="lista_cabeza">
+                    <h4>Intructora Alejandra</h4>
+                  </div>
+                  <div class="mensaje_parrafo outgoing">
+                    <p>
+                      <ion-icon name="arrow-up"></ion-icon>
+                      08/20/2024, 11:45
+                    </p>
+                  </div>
+                </div>
+                <ion-icon name="call" class="call"></ion-icon>
+              </div>
+            </div>
